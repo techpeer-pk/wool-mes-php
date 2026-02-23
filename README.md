@@ -918,4 +918,3 @@ You have three viable paths:
 3. **Hybrid:** Prototype first, then decide
 
 **Recommendation:** Start with qcadoo MES for immediate needs, then build custom if you need specific features they don't offer.
-
