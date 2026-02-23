@@ -1,0 +1,22 @@
+{
+    "name": "The Wool Production MES | By: techpeer.online",
+    "short_name": "Wool - MES",
+    "description": "The Wool Production MES (Manufacturing Execution System) is a comprehensive web-based solution designed to track and manage wool batches through all stages of production, from raw material receipt to finished garment packaging.",
+    "icons": [
+        {
+            "src": "/favicon_io/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon_io/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "id": "/",
+    "start_url": "/",
+    "theme_color": "#DBEAFE",
+    "background_color": "#BEDBFF",
+    "display": "standalone"
+}

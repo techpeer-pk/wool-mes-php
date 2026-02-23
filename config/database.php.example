@@ -1,0 +1,29 @@
+<?php
+// Database Configuration Template
+define('DB_HOST', 'localhost');
+define('DB_USER', 'your_database_user');
+define('DB_PASS', 'your_database_password');
+define('DB_NAME', 'your_database_name');
+
+// Include error handler
+require_once __DIR__ . '/error-handler.php';
+
+// Create connection
+$conn = safeDBConnect(DB_HOST, DB_USER, DB_PASS, DB_NAME);
+
+// Set charset to UTF-8
+mysqli_set_charset($conn, "utf8mb4");
+
+// Timezone
+date_default_timezone_set('Asia/Karachi');
+
+// Secure session configuration
+if (session_status() === PHP_SESSION_NONE) {
+    ini_set('session.cookie_httponly', 1);
+    ini_set('session.use_only_cookies', 1);
+    ini_set('session.cookie_samesite', 'Strict');
+    ini_set('session.gc_maxlifetime', 3600);
+    
+    session_start();
+}
+?>
