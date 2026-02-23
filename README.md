@@ -854,38 +854,6 @@ $result = $stmt->get_result();
 
 ---
 
-## PART 10: NEXT STEPS - WHAT DO YOU NEED FROM ME?
-
-I can help you with:
-
-### Option A: Start Building Immediately
-I can provide you with:
-1. Complete SQL scripts to create the database
-2. PHP code for each page
-3. HTML/CSS for the interface
-4. JavaScript for interactivity
-5. Step-by-step setup instructions
-
-### Option B: Prototype First
-I can create:
-1. A working demo (React-based) so you can test the concept
-2. Then convert it to PHP/MySQL if you like it
-
-### Option C: Detailed Guides
-I can write:
-1. Complete installation guide
-2. Developer documentation
-3. User manual
-4. Training materials
-
-### Option D: qcadoo Setup Help
-I can provide:
-1. qcadoo installation guide
-2. Configuration for wool production
-3. Customization instructions
-
----
-
 ## APPENDIX: USEFUL RESOURCES
 
 ### PHP/MySQL Learning
@@ -909,12 +877,25 @@ I can provide:
 
 ---
 
-## CONCLUSION
+## 📄 License
 
-You have three viable paths:
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
-1. **Quick Start:** Use qcadoo MES (2-3 weeks to production)
-2. **Custom Build:** PHP/MySQL system (6-8 weeks, full control)
-3. **Hybrid:** Prototype first, then decide
+---
+## 👨‍💻 Author
 
-**Recommendation:** Start with qcadoo MES for immediate needs, then build custom if you need specific features they don't offer.
+**Syed Aneel Raza**
+*Full Stack Developer | PHP MySQL |Firebase Enthusiast*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedaneelraza)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Silverado313)
+[![Website](https://img.shields.io/badge/TechPeer-Web-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://techpeer.web.app)
+
+---
+*If you find MES helpful, consider giving it a ⭐ to show your support!*
+
+## ⭐ Support
+
+If you find this project helpful, please give it a **star** on GitHub!
+
+> Built on PHP — Free forever for small businesses.
